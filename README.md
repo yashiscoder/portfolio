@@ -31,7 +31,6 @@ Designed with a clean dark aesthetic, smooth animations, glassmorphism-inspired 
 * CSS Grid
 * Flexbox
 * CSS Animations
-* Glassmorphism UI
 
 ---
 
